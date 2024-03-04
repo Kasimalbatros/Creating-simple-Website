@@ -1,0 +1,14 @@
+nav li{
+display:inline      ---> Makes the navbar in Horizontal line and padding gives space between them.
+padding:10px
+}
+
+
+
+
+or we can use
+
+nav li{
+display:flex;
+justify-content:space-around;
+}

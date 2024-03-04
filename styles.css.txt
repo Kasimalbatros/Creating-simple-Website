@@ -1,0 +1,20 @@
+#Red{
+    color:Red;
+}
+#blue{
+    color:blue;
+}
+#green{
+    color:green
+}
+#yellow{
+    color:yellow;
+}
+.Avengers{
+    font-weight: normal;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
